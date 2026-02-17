@@ -24,7 +24,7 @@ W ramach modułu wymagane jest wykonanie **trzech projektów**:
 
 ### Projekt 1: Modyfikacja środowiska (do wyboru jedna z opcji):
 
-* **Sweep parametrów (Model odkurzacza)**: Analiza wpływu zmian parametrów środowiska (np. , `rescue_cost`, ) na optymalną politykę agenta.
+* **Sweep parametrów (Model odkurzacza)**: Analiza wpływu zmian parametrów środowiska (np.`rescue_cost`) na optymalną politykę agenta.
     * ***Przygotowano sprawozdanie:***
         * [sprawozdanie_sweep.ipynb](sprawozdanie_sweep.ipynb)
 * **Gridworld 5x5**: Modyfikacja siatki świata (minimum 5x5), zmiana położenia punktów specjalnych i ewaluacja uzyskanych wyników.
@@ -34,11 +34,14 @@ W ramach modułu wymagane jest wykonanie **trzech projektów**:
 ### Projekt 2: Dynamic Programming
 
 * Wykonanie zadań zawartych w notebooku `2_RL_Ch04_Dynamic_Programming_proj.ipynb`.
-    * Rozwiązanie:
+    * ***Rozwiązanie:***
         * [2_RL_Ch04_Dynamic_Programming_proj.ipynb](2_RL_Ch04_Dynamic_Programming_proj.ipynb)
 
 
 ### Projekt 3: Paczka zadań RL
 
 * Realizacja zadań z plików 02, 03 oraz 04 znajdujących się w archiwum `3_RL.zip`.
-
+    * ***Przygotowane Notatniki:***
+        * [3_Ch05_02_mc_frozenlake_only_student.ipynb](3_RL/3_Ch05_02_mc_frozenlake_only_student.ipynb)
+        * [3_Ch06_03_td0_frozenlake_only_student.ipynb](3_RL/3_Ch06_03_td0_frozenlake_only_student.ipynb)
+        * [3_Ch06_04_td_lambda_bridge_student.ipynb](3_RL/3_Ch06_04_td_lambda_bridge_student.ipynb)
